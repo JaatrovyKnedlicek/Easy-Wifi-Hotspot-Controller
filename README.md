@@ -4,10 +4,12 @@ The program is portable and no installation is required download the zip file fr
 ## Use
 **Running the program** makes it easy to open the .exe file. When you run the program, the main menu will pop up when you have this **Options:**
 
- - **Configuration** There you set the SSID and password of the WiFi network you want to host.
+ - **Easy setup** There you can easily set up a new WiFi network.
  - **Start** starts the WiFi network
  - **Stop** stops the WiFi network
- - **Show connected devices** shows details of the WiFi network
+ - **Info** shows details of the WiFi network
+ - **Configure** settings of the WiFi network
+
 ## Technology
  - **C#** language of the program
  - **.Net 9.0** SDK of the program
