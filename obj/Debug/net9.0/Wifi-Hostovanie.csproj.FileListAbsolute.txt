@@ -1,0 +1,14 @@
+C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\bin\Debug\net9.0\Wifi-Hostovanie.exe
+C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\bin\Debug\net9.0\Wifi-Hostovanie.deps.json
+C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\bin\Debug\net9.0\Wifi-Hostovanie.runtimeconfig.json
+C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\bin\Debug\net9.0\Wifi-Hostovanie.dll
+C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\bin\Debug\net9.0\Wifi-Hostovanie.pdb
+C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\obj\Debug\net9.0\Wifi-Hostovanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\obj\Debug\net9.0\Wifi-Hostovanie.AssemblyInfoInputs.cache
+C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\obj\Debug\net9.0\Wifi-Hostovanie.AssemblyInfo.cs
+C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\obj\Debug\net9.0\Wifi-Hostovanie.csproj.CoreCompileInputs.cache
+C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\obj\Debug\net9.0\Wifi-Hostovanie.dll
+C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\obj\Debug\net9.0\refint\Wifi-Hostovanie.dll
+C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\obj\Debug\net9.0\Wifi-Hostovanie.pdb
+C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\obj\Debug\net9.0\Wifi-Hostovanie.genruntimeconfig.cache
+C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\obj\Debug\net9.0\ref\Wifi-Hostovanie.dll
