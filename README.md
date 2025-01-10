@@ -28,3 +28,9 @@ I appreciate any type of help using issues, pull requests or cotributing with yo
 
 ## License
 Program is licensed by **MIT License** detail can be found in LICENSE file.
+
+## Contact
+**E-Mail:** jankogranko@gmail.
+
+## Thanks everyone!
+Thanks everyone that helped by contributing to this project by testing, sharing their opinion, reporting bugs, contributing their code.
