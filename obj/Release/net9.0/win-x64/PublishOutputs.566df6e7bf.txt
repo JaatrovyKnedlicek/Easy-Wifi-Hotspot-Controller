@@ -1,5 +1,0 @@
-C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\bin\Release\net9.0\win-x64\publish\Wifi-Hostovanie.exe
-C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\bin\Release\net9.0\win-x64\publish\Wifi-Hostovanie.dll
-C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\bin\Release\net9.0\win-x64\publish\Wifi-Hostovanie.deps.json
-C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\bin\Release\net9.0\win-x64\publish\Wifi-Hostovanie.runtimeconfig.json
-C:\Users\Janko\Desktop\Wifi hostovanie\Wifi-Hostovanie\bin\Release\net9.0\win-x64\publish\Wifi-Hostovanie.pdb
