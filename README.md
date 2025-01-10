@@ -30,7 +30,7 @@ I appreciate any type of help using issues, pull requests, or contributing to yo
 The program is licensed by **MIT License** details can be found in the LICENSE file.
 
 ## Contact
-**E-Mail:** jankogranko888@gmail.
+**E-Mail:** jankorepka888@gmail.com
 
 ## Thanks, everyone!
 Thanks to everyone who helped by contributing to this project by testing, sharing their opinion, reporting bugs, and contributing their code.
